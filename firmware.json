@@ -1,7 +1,7 @@
 {
-  "version": "3.6.7",
-  "url": "https://github.com/monspepoebib8879/AqlliBell/releases/download/v3.6.7/AqlliBell-035-v3.6.7.bin",
-  "size": 1757552,
-  "sha256": "5a47278dcdb6039452f95e31bd240420517e07d4643b0b2291ab22b89f36f400",
-  "notes": "Birinchi internet orqali yangilash sinovi."
+  "version": "3.6.8",
+  "url": "https://github.com/monspepoebib8879/AqlliBell/releases/download/v3.6.8/AqlliBell-035-v3.6.8.bin",
+  "size": 1769440,
+  "sha256": "817f226f272224f9e21d77e90a4075265061106c82109d4496d13249c765d341",
+  "notes": "Soat batareyasi (CR2032) holati: ekran, web va jurnalda."
 }
